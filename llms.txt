@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-far2t-ma3aya/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Enta Far2t Ma3aya](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Music Licensing for Enta Far2t Ma3aya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
