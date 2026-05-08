@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta Far2t Ma3aya
+
+This log tracks the cryptographic history and versioning for the song **Enta Far2t Ma3aya** (enta-far2t-ma3aya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:40:17.377066 | `v1` | `2aa818bd7ad55a555bac702b50ea6f07b7a7b41dde5e2cb538005062fccc6bb0` | `587b91aa875516bebc21ac4aafbcfccf2feab652b6054dad1469365983757d7a` | `2026-05-09_enta-far2t-ma3aya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
